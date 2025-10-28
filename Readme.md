@@ -21,11 +21,11 @@ I specialize in building modern, responsive, and user-friendly web applications 
 
 <div align="center">
 
-| Languages      | Frameworks / Libraries       | Tools & Platforms     |
-|----------------|------------------------------|------------------------|
-| HTML, CSS, JS   | Tailwind CSS, Bootstrap      | Git, GitHub            |
-| PHP, Java       | React.js, Next.js, Spring Boot | VS Code, Postman       |
-| MySQL, PostgreSQL | Laravel (basics)            | Vercel, Netlify        |
+| Languages         | Frameworks / Libraries         | Tools & Platforms |
+| ----------------- | ------------------------------ | ----------------- |
+| HTML, CSS, JS     | Tailwind CSS, Bootstrap        | Git, GitHub       |
+| PHP, Java         | React.js, Next.js, Spring Boot | VS Code, Postman  |
+| MySQL, PostgreSQL | Laravel (basics)               | Vercel, Netlify   |
 
 </div>
 
@@ -33,29 +33,32 @@ I specialize in building modern, responsive, and user-friendly web applications 
 
 ## 📂 Featured Projects
 
-### ⚡ Portfolio Website  
+### ⚡ Portfolio Website
+
 > A responsive personal website built with **HTML**, **Tailwind CSS**, and **JavaScript**.
 
-- ✅ Smooth navigation  
-- ✅ Modern design  
-- ✅ Responsive on all devices  
+- ✅ Smooth navigation
+- ✅ Modern design
+- ✅ Responsive on all devices
 
 ---
 
 ## 💼 Services Offered
 
-- ✅ Frontend Web Development  
-- ✅ Backend API Development  
-- ✅ Responsive Web Design  
-- ✅ Hosting & Deployment  
+- ✅ Frontend Web Development
+- ✅ Backend API Development
+- ✅ Responsive Web Design
+- ✅ Hosting & Deployment
 
 ---
 
-## 📫 Connect with Me
+- 📫 Connect with Me
 
-- 📧 Email: [daron3327@gmail.com](mailto:daron3327@gmail.com)  
-- 🌐 Facebook: [facebook.com/kea.daron](https://www.facebook.com/share/18oXHR6M5b/?mibextid=wwXIfr)  
-- 💻 GitHub: [github.com/kea-daron](https://github.com/kea-daron)  
+- 📧 Email: [daron3327@gmail.com](mailto:daron3327@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/kea-daron-315ba436b](https://www.linkedin.com/in/kea-daron-315ba436b)
+- 📱 Telegram: [t.me/kea_daron](https://t.me/kea_daron)
+- 🌐 Facebook: [facebook.com/kea.daron](https://www.facebook.com/share/18oXHR6M5b/?mibextid=wwXIfr)
+- 💻 GitHub: [github.com/kea-daron](https://github.com/kea-daron)
 - 🌍 Portfolio: [keadaron.netlify.app](https://keadaron.netlify.app)
 
 ---
